@@ -2,9 +2,9 @@
 
 
 ## Team Members
-* Shreya De, Back end developer
-* Angeline Chen, Back end developer
-* Vrinda Shorewala, Front end developer
+* Shreya De, Back end Developer
+* Angeline Chen, Back end Developer
+* Vrinda Shorewala, Front end Developer
 * Joy Zou, UX Designer
 
 ## Technologies Used

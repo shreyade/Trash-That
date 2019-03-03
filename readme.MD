@@ -1,4 +1,3 @@
-Developed at Hack for Humanity 2019 at Santa Clara University
 
 ##Team Members
 * Shreya De, Back end developer

@@ -9,7 +9,7 @@
 
 ## Technologies Used
 * Back end: Node.JS, Amazon Web Services Rekognition, JSON
-* Front end: HTML5, CSS, JavaScript
+* Front end: HTML5, CSS, JavaScript, Clip Studio
 
 
 ## Inspiration

@@ -1,11 +1,13 @@
+**Developed at Hack for Humanity 2019 at Santa Clara University**
 
-##Team Members
+
+## Team Members
 * Shreya De, Back end developer
 * Angeline Chen, Back end developer
 * Vrinda Shorewala, Front end developer
 * Joy Zou, UX Designer
 
-##Technologies Used
+## Technologies Used
 * Back end: Node.JS, Amazon Web Services Rekognition, JSON
 * Front end: HTML5, CSS, JavaScript
 

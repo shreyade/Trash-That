@@ -8,7 +8,7 @@
 * Joy Zou, UX Designer
 
 ## Technologies Used
-* Back end: Node.JS, Amazon Web Services Rekognition, JSON
+* Back end: Node.JS, Amazon Web Services Rekognition, JSON, Express.JS, Handlebars.JS
 * Front end: HTML5, CSS, JavaScript, Boot Strap
 
 

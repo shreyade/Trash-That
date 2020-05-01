@@ -1,12 +1,3 @@
-**Developed at Hack for Humanity 2019 at Santa Clara University**
-
-
-## Team Members
-* Shreya De, Back end Developer
-* Angeline Chen, Back end Developer
-* Vrinda Shorewala, Front end Developer
-* Joy Zou, UX Designer
-
 ## Technologies Used
 * Back end: Node.JS, Amazon Web Services Rekognition, JSON, Express.JS, Handlebars.JS
 * Front end: HTML5, CSS, JavaScript, Boot Strap
